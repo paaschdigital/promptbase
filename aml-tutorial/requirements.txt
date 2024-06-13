@@ -1,3 +1,4 @@
 aether-utils==0.0.1.dev1
 azure-ai-ml
 datasets
+azure-identity>=1.16.1 # not directly required, pinned by Snyk to avoid a vulnerability
