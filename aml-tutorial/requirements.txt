@@ -1,3 +1,5 @@
 aether-utils==0.0.1.dev1
 azure-ai-ml
 datasets
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
+pyarrow>=14.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
